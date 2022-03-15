@@ -1,29 +1,9 @@
-# Nuxt 3 Minimal Starter
+# Nuxt 3 Markdown Starter
 
-We recommend to look at the [documentation](https://v3.nuxtjs.org).
+Reference: [EC3-Gang/ec3-gang.github.io](https://github.com/EC3-Gang/ec3-gang.github.io)
 
-## Setup
+[Nuxt 3 documentation](https://v3.nuxtjs.org).
 
-Make sure to install the dependencies
-
-```bash
-yarn install
-```
-
-## Development
-
-Start the development server on http://localhost:3000
-
-```bash
-yarn dev
-```
-
-## Production
-
-Build the application for production:
-
-```bash
-yarn build
-```
-
-Checkout the [deployment documentation](https://v3.nuxtjs.org/docs/deployment).
+Todo: 
+  - dynamic import files
+  - routers
